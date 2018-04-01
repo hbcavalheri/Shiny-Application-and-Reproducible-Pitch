@@ -1,4 +1,4 @@
-# Shiny-Application-and-Reproducible-Pitch
+# Shiny-Flights
 
 R Shiny app showing flights from Brazil to United States.
 
